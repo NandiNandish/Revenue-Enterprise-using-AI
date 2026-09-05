@@ -1,0 +1,6 @@
+{
+  "name": "AI Revenue Recovery",
+  "description": "Autonomous enterprise revenue recovery platform detecting billing discrepancies, automating payment follow-ups, synchronizing ERPs, and providing financial oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
